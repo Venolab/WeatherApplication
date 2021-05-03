@@ -1,0 +1,34 @@
+body {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60%;
+  color: 052149;
+}
+h1 {
+  margin: 20px;
+  font-size: 25px;
+  color: #ffd392;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+  margin: 20px;
+  text-align: left;
+  font-size: 20px;
+  font-weight: 300;
+  color: #ffd392;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+  text-align: center;
+  font-size: 18px;
+  color: #ffd392;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+}
